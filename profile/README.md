@@ -4,16 +4,12 @@
 
 At Ghud, we believe productivity is **holistic** — balancing family, work, and simplicity — and that well-designed software should reflect that philosophy. Our projects aim to help people spend less time fighting tools and more time doing what matters.
 
----
-
 ## 🌱 Philosophy & Focus
 
 - **Holistic Productivity:** Tools and concepts that help you manage time, energy, and priorities with clarity.
 - **Simplicity First:** Minimal, maintainable designs that reduce friction for users and developers alike.
 - **Thought Leadership:** Essays, articles, and blog posts sharing insights on engineering, personal productivity, and organizational design.
 - **Software Principles:** Core concepts that guide how we design software — scalable, maintainable, user-first, and purposeful.
-
----
 
 ## 🚀 Active Project: Tandm
 
@@ -25,14 +21,10 @@ At Ghud, we believe productivity is **holistic** — balancing family, work, and
 
 👉 [View the Tandm repo](https://github.com/ghud-org/tandm)
 
----
-
 ## 📖 Blog & Essays
 
 We document ideas that inspire our software design and productivity approach:
 
 - [Ghud Blog](https://ghud-org.github.io) — essays, articles, and tutorials on productivity, engineering, and design philosophy.
-
----
 
 ⚡ _"Software should amplify your focus, not fragment it."_
