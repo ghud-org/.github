@@ -25,6 +25,6 @@ At Ghud, we believe productivity is **holistic** — balancing family, work, and
 
 We document ideas that inspire our software design and productivity approach:
 
-- [Ghud Blog](https://ghud-org.github.io) — essays, articles, and tutorials on productivity, engineering, and design philosophy.
+- [Ghud Blog](https://ghud.org) — essays, articles, and tutorials on productivity, engineering, and design philosophy.
 
 ⚡ _"Software should amplify your focus, not fragment it."_
